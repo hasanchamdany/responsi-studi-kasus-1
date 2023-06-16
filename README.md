@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Muchammad Hasan Chamdany  
+NIU : 456846  
+Sesi : Siang -Jarkom  
+Secret String : ed6c0a448bf280a04737abda37ef350ad6a5bbcb8a555d090fd594617cb2090a20230616065709
 
 ## Checklist Responsi
 
